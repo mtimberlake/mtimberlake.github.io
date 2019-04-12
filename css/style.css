@@ -11,6 +11,10 @@ CSS COPIED TO EACH PAGE
 
 ================================================================== */
 
+.landing-page {
+    width: 100%;
+}
+
 body.container-fluid {
     background: rgb(183, 183, 183) ;
     color: white;
@@ -109,3 +113,6 @@ CSS FOR BLOGS
 
 /*-- Keep all your "styling and designs" organized with comments! --*/
 
+.carousel-inner {
+     max-height: 900px !important;
+}
