@@ -45,6 +45,13 @@ footer {
     padding: 20px;   
 }
 
+footer p ,.footer-social{
+    display: inline;
+}
+
+
+
+
 ul {
    list-style-type: none;
     margin:0;   
@@ -114,6 +121,30 @@ CSS FOR BLOGS
 /*-- Keep all your "styling and designs" organized with comments! --*/
 
 .carousel-inner {
-     max-height: 900px !important;
+    max-height: 900px !important;
     max-width: 1300px !important;
+}
+
+.merch {
+    background: white;
+    padding: 25px 25px;
+    margin: 10px;
+    color: black; 
+    
+    
+    
+    
+}
+
+.places {
+    border-right: 2px solid black;
+}
+
+
+.formx1 {
+    font-size: 50px; 
+}
+
+.fomx2 {
+    font-size: 30px;
 }
